@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<defs>
+<linearGradient id="linearGradient3291" y2="22" gradientUnits="userSpaceOnUse" x2="22" y1="7" x1="13">
+<stop stop-color="#e7ef49" offset="0"/>
+<stop stop-color="#FFF" offset="0.23148"/>
+<stop stop-color="#FFF" offset="0.75"/>
+<stop stop-color="#989898" offset="1"/>
+</linearGradient>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path stroke-linejoin="round" d="M16,5c-8.0107,0-14.5,4.4864-14.5,10,0,5.514,6.4893,9.969,14.5,9.969,1.298,0,2.553-0.124,3.75-0.344,0.444,3.111,0.75,5.344,0.75,5.344l4.469-7.157c3.365-1.829,5.531-4.633,5.531-7.812,0-5.5136-6.489-10-14.5-10z" stroke="#FFF" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="none"/>
+<path stroke-linejoin="round" d="M16,5.0312c-8.0107,0-14.5,4.4865-14.5,9.9998,0,5.514,6.4893,9.969,14.5,9.969,1.298,0,2.553-0.123,3.75-0.344,0.444,3.111,0.75,5.344,0.75,5.344l4.469-7.156c3.365-1.83,5.531-4.634,5.531-7.813,0-5.5133-6.489-9.9998-14.5-9.9998z" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="0.99999994" fill="url(#linearGradient3291)"/>
+<path stroke-linejoin="round" d="M8.9313,12.451h15" stroke="#b56e9c" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="none"/>
+<path stroke-linejoin="round" d="M13.725,17.412h10" fill-rule="evenodd" stroke="#b56e9c" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#eff487"/>
+</svg>

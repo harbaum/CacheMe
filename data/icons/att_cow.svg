@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.46"
+   sodipodi:docname="att_cow.svg"
+   sodipodi:version="0.32"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/scratchbox/users/THarbaum/home/THarbaum/navi/gpxview/trunk/data/icons/32x32/att_cow.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2496"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.9375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     objecttolerance="20"
+     inkscape:window-width="938"
+     inkscape:window-height="666"
+     inkscape:window-x="218"
+     inkscape:window-y="320"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2818"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.3622)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:1.19999999999999996"
+       id="rect2816"
+       width="30"
+       height="30"
+       x="1"
+       y="-15"
+       transform="translate(0,1036.3622)"
+       rx="2"
+       ry="2" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 4.5201794,1035.3622 C 4.6376844,1035.5283 5.1211369,1036.0847 5.7174888,1036.147 C 6.3138407,1036.2093 8.1076233,1035.2142 8.1076233,1035.2142 L 12.269059,1038.1559 L 12.843049,1040.7389 L 11.838565,1042.8196 L 13.632287,1042.8196 L 13.919283,1038.5147 L 16.215247,1040.9541 L 15.784754,1042.7478 C 15.784754,1042.7478 16.430493,1042.8196 17.578476,1042.7478 C 17.29148,1041.6716 16.932736,1040.2366 16.932736,1040.2366 L 15.928251,1038.4429 L 23.03139,1037.7972 L 22.717489,1040.2366 L 21.524664,1042.6044 L 22.959641,1042.5326 L 25.040359,1038.7299 L 26.188341,1041.2411 L 25.470852,1042.7478 L 27.264574,1042.8196 C 27.264574,1042.8196 26.578113,1039.1552 26.475337,1037.6537 C 26.372561,1036.1522 26.432452,1033.8036 26.547085,1032.8465 C 26.661718,1031.8894 27.519932,1031.5902 26.90583,1031.268 C 26.348696,1030.9756 19.817016,1031.4169 17.363229,1031.4833 C 14.909442,1031.5497 12.077474,1031.7504 10.547085,1031.6985 C 9.016696,1031.6466 7.1748879,1031.3622 7.1748879,1031.3622 L 5.955157,1030.6223 L 6.2421525,1032.4878 C 6.2421525,1032.4878 4.4315867,1035.237 4.5201794,1035.3622 z"
+       id="path2502"
+       sodipodi:nodetypes="czccccccccccccccccccczzzzzcccz" />
+  </g>
+</svg>

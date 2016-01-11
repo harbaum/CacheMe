@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<defs>
+<radialGradient id="radialGradient3774" gradientUnits="userSpaceOnUse" cy="21.884" cx="19.903" r="8">
+<stop stop-color="#FFF" offset="0"/>
+<stop stop-color="#ffb501" offset="1"/>
+</radialGradient>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path stroke-linejoin="round" d="m30,23.5a7.5,7.5,0,1,1,-15,0,7.5,7.5,0,1,1,15,0z" fill-rule="nonzero" transform="translate(1.0974728,0.11552346)" stroke="#ae8402" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1" fill="url(#radialGradient3774)"/>
+<path stroke-linejoin="round" d="m23,21.5a1.5,2.5,0,1,1,-3,0,1.5,2.5,0,1,1,3,0z" fill-rule="nonzero" transform="translate(-0.46209384,0)" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="0.5" fill="#FFF"/>
+<path stroke-linejoin="round" d="m23,21.5a1.5,2.5,0,1,1,-3,0,1.5,2.5,0,1,1,3,0z" fill-rule="nonzero" transform="translate(4.5956681,0)" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="0.5" fill="#FFF"/>
+<path stroke-linejoin="round" d="m19,25c3,5,6,5,9,0-2,1-7,1-9,0z" stroke="#8c2500" stroke-linecap="round" stroke-width="1px" fill="#eb3e00"/>
+<path stroke-linejoin="round" d="m12,18.5a0.5,0.5,0,1,1,-1,0,0.5,0.5,0,1,1,1,0z" fill-rule="nonzero" transform="translate(9.5379064,3.3646213)" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1" fill="#eb3e00"/>
+<path stroke-linejoin="round" d="m12,18.5a0.5,0.5,0,1,1,-1,0,0.5,0.5,0,1,1,1,0z" fill-rule="nonzero" transform="translate(14.577621,3.4404338)" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1" fill="#eb3e00"/>
+</svg>

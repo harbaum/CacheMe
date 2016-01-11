@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="80" width="80">
+ <defs>
+  <linearGradient id="hicg_overlay_grad" gradientUnits="userSpaceOnUse" x1="39.9995" y1="5.1816" x2="39.9995" y2="58.8019">
+   <stop offset="0" style="stop-color:#FFFFFF"/>
+   <stop offset="1" style="stop-color:#000000"/>
+  </linearGradient>
+  <filter id="hicg_drop_shadow">
+    <feOffset in="SourceAlpha" dx="0" dy="4"/>
+    <feGaussianBlur stdDeviation="4"/>
+	<feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 0.5 0" result="shadow"/>
+    <feBlend in="SourceGraphic" in2="shadow" mode="normal"/>
+  </filter>
+ </defs>
+ <g>
+  <path id="hicg_background" fill="#5aa02c" d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1S79,11.106,79,40z"/>
+  <path id="hicg_highlight" fill="#fff" opacity="0.25" d="M39.999,1C11.105,1,1,11.106,1,40c0,28.893,10.105,39,38.999,39   C68.896,79,79,68.893,79,40C79,11.106,68.896,1,39.999,1z M39.999,78.025C11.57,78.025,1.976,68.43,1.976,40   c0-28.429,9.595-38.024,38.023-38.024c28.43,0,38.024,9.596,38.024,38.024C78.023,68.43,68.429,78.025,39.999,78.025z"/>
+  <path id="hicg_overlay" opacity="0.4" fill="url(#hicg_overlay_grad)" d="M78.977,40c0,28.893-10.1,39-38.977,39S1.023,68.893,1.023,40c0-28.894,10.1-39,38.977-39S78.977,11.106,78.977,40z"/>
+ </g>
+<g xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" transform="translate(12, 12) scale(1.75)">
+<defs xmlns="http://www.w3.org/2000/svg"/>
+<metadata xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" d="M4,25v-8h-1v-3l15-8h12v3l-1,1v7l-13,8h-12z" fill-rule="evenodd" stroke="#FFF" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#b3b3b3"/>
+<path xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" d="M16,17l13-8v8l-13,8v-8z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1" fill="#FFF"/>
+<path xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" d="M4,17h12v8h-12v-8z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1" fill="#FFF"/>
+<path xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" d="M3,14l15-8h12l-13,8h-14z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1" fill="#5aa02c"/>
+<path xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" d="M3,17v-3h14v3h-14z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1" fill="#5aa02c"/>
+<path xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" d="M17,17l13-8v-3l-13,8v3z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1" fill="#5aa02c"/>
+<path xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" d="M5.5824,16.996l0.9392,2.291h6.5744l0.939-2.291h-8.4526z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1" fill="#5aa02c"/>
+<path xmlns="http://www.w3.org/2000/svg" d="M8,13l11-6h7l-10,6h-8z" fill-rule="evenodd" fill="#217821"/>
+</g></svg>

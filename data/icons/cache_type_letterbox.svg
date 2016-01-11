@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<defs>
+<linearGradient id="linearGradient3306" y2="16.93" gradientUnits="userSpaceOnUse" x2="20.084" y1="6.973" x1="15.5">
+<stop stop-color="#707070" offset="0"/>
+<stop stop-color="#EEE" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient3318" y2="17.5" gradientUnits="userSpaceOnUse" x2="18.5" y1="17.5" x1="3.5">
+<stop stop-color="#656565" offset="0"/>
+<stop stop-color="#dcdcdc" offset="0.20113"/>
+<stop stop-color="#d0d0d0" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient3373" y2="15" gradientUnits="userSpaceOnUse" x2="19" y1="15" x1="28">
+<stop stop-color="#656565" offset="0"/>
+<stop stop-color="#dcdcdc" offset="0.23165"/>
+<stop stop-color="#d0d0d0" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient3391" y2="11" gradientUnits="userSpaceOnUse" x2="16" y1="22.794" x1="18.618">
+<stop stop-color="#656565" offset="0"/>
+<stop stop-color="#dcdcdc" offset="0.19372"/>
+<stop stop-color="#d0d0d0" offset="1"/>
+</linearGradient>
+<filter id="filter3421">
+<feGaussianBlur stdDeviation="0.21863093"/>
+</filter>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path stroke-linejoin="round" d="M4,26v-17l24-3v15l-24,5z" stroke="#FFF" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="none"/>
+<path stroke-linejoin="round" d="M4,26v-17l24-3v15l-24,5z" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="none"/>
+<path stroke-linejoin="round" d="M4,26l2.206-0.863,11.794-10.137-14-6v17z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="url(#linearGradient3318)"/>
+<path stroke-linejoin="round" d="M28,21v-15l-9,7,9,8z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="url(#linearGradient3373)"/>
+<path stroke-linejoin="round" d="M4,26l14-14,10,9-24,5z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="url(#linearGradient3391)"/>
+<path d="M4,9l11.481,7.343c1.04,0.41,2.915,0.358,4.137-0.686l8.382-9.657-24,3z" fill-rule="evenodd" fill-opacity="0.33561644" transform="matrix(1,0,0,1.2271309,0,-1.3627855)" filter="url(#filter3421)" fill="#000"/>
+<path stroke-linejoin="round" d="M4,9l14,8c1.04,0.41,2.121,0.495,3.343-0.549l6.657-10.451-24,3z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="url(#linearGradient3306)"/>
+</svg>

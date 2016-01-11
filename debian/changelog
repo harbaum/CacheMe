@@ -1,0 +1,379 @@
+cacheme (0.9.4-1) unstable; urgency=low
+
+  * 
+
+ -- Till Harbaum <till@harbaum.org>  Mon, 13 Aug 2012 18:56:24 +0200
+
+cacheme (0.9.3-1) unstable; urgency=low
+
+  * Fix multi-line logs
+  * Fix log date
+  * Allow to click on waypoints
+  * search for waypoint names
+  * search for gpx memory leak (none found)
+  * "publish" option for logs
+  * czech translation
+
+ -- Till Harbaum <till@harbaum.org>  Thu, 31 May 2012 21:46:55 +0200
+
+cacheme (0.9.2-1) unstable; urgency=low
+
+  * Live log
+  * (spoiler) images
+  * exclude own/found from search results
+  * option to reload details
+  * option to center map on waypoint
+  * OpenCaching plugin
+  * Don't hardcode geocaching.com for browser logging
+  * fix kinetic scrolling
+
+ -- Till Harbaum <till@harbaum.org>  Tue, 15 May 2012 19:06:21 +0200
+
+cacheme (0.9.1-1) unstable; urgency=low
+
+  * Fix waypoint display
+  * Fix waypoint description
+  * Button for re-authentication
+  * info box before browser is being launched
+  * simplify plugin interfaces
+  * generic info interface
+  * generic io requests
+  * generic io replies
+  * support search
+  * map search results
+  * increase info cache to 25 entries
+  * fix attribute handling
+  * kinetic scrolling
+
+ -- Till Harbaum <till@harbaum.org>  Thu, 12 Apr 2012 18:49:53 +0200
+
+cacheme (0.9.0-1) unstable; urgency=low
+
+  * Remove GcBrowser plugin
+  * Add help page
+
+ -- Till Harbaum <till@harbaum.org>  Thu, 12 Apr 2012 07:04:43 +0200
+
+cacheme (0.8.17-1) unstable; urgency=low
+
+  * Implement GcLive plugin
+
+ -- Till Harbaum <till@harbaum.org>  Thu, 08 Mar 2012 20:19:52 +0100
+
+cacheme (0.8.16-1) unstable; urgency=low
+
+  * Move motd into tools menu
+  * Yet another adaption to a gc.com web site change
+
+ -- Till Harbaum <till@harbaum.org>  Thu, 23 Feb 2012 19:25:46 +0100
+
+cacheme (0.8.15-1) unstable; urgency=low
+
+  * "message of the day" tool
+  * Adopt to new map from 02/14/12:
+  * request all overview tiles
+  * adopt to zoom level
+  * request map.tile as this also generates the .info part
+  * average geolocation from map grid
+  * parse new info stucture
+  * remove <strike> tags
+  * restrict zoom levels to 13
+
+ -- Till Harbaum <till@harbaum.org>  Sun, 19 Feb 2012 21:18:57 +0100
+
+cacheme (0.8.14-1) unstable; urgency=low
+
+  * Version increase since OVI store doesn't seem to cope with 0.8.13.1
+
+ -- Till Harbaum <till@harbaum.org>  Mon, 13 Feb 2012 14:30:08 +0100
+
+cacheme (0.8.13.1-1) unstable; urgency=low
+
+  * Re-enable icon click workaround for symbian
+
+ -- Till Harbaum <till@harbaum.org>  Sat, 04 Feb 2012 20:11:59 +0100
+
+cacheme (0.8.13-1) unstable; urgency=low
+
+  * tool infrastructure
+  * rot/rot13 tool
+  * GPS and map center selectable in coordinate tool
+  * Adjust/reduce settings dialog spacing
+  * coordinate projection tool
+  * fix "many caches" cpu load problem on mobile
+
+ -- Till Harbaum <till@harbaum.org>  Tue, 22 Nov 2011 18:45:29 +0100
+
+cacheme (0.8.12-1) unstable; urgency=low
+
+  * replace settings tabs with scrollarea on maemo5
+  * option to disable map screen saver
+  * avoid qgroupboxes on symbian due to problems with qt 4.7.4 there
+  * suppress further background processing for qt 4.7.4
+  * show gps precision in nav view
+  * support imperial units for distances
+  * fixed bug in flick scroller
+  * Symbian icon size adjustment
+  * Fix user name truncation in Gcbrowser log parsing
+
+ -- Till Harbaum <till@harbaum.org>  Sat, 05 Nov 2011 21:48:12 +0100
+
+cacheme (0.8.11-1) unstable; urgency=low
+
+  * Prepare for official symbian^1 release
+  * change settings dialog to cope with bigger fonts (e.g. 5250)
+  * obfuscate password in conf file
+  * Cache map update requests in background to cope with belle crashes
+  * help link in about box
+  * Support for QtMobility 1.2.1 map types
+
+ -- Till Harbaum <till@harbaum.org>  Mon, 24 Oct 2011 21:03:32 +0200
+
+cacheme (0.8.10-1) unstable; urgency=low
+
+  * Updated fremantle desktop icons
+  * Fixed Waypoint name length problem in nav view
+  * Option to disable found/owned caches
+  * Tabbed settings dialog
+  * Completely disable use of network disk cache
+
+ -- Till Harbaum <till@harbaum.org>  Sun, 09 Oct 2011 20:22:51 +0200
+
+cacheme (0.8.9-1) unstable; urgency=low
+
+  * Adopted gcbrowser login to cope with latest gc.com site changes
+  * Catch "UnknownNetworkError" under Symbian
+  * Anna icon
+
+ -- Till Harbaum <till@harbaum.org>  Fri, 07 Oct 2011 21:31:51 +0200
+
+cacheme (0.8.8-1) unstable; urgency=low
+
+  * Waypoints can be selected on the map
+  * Option to copy coordinates to clipboard
+  * Disable screen saver in navigation window
+  * Fixed super-stupid bug in log month parsing
+
+ -- Till Harbaum <till@harbaum.org>  Wed, 31 Aug 2011 19:09:35 +0200
+
+cacheme (0.8.7-1) unstable; urgency=low
+
+  * Bugfix in waypoint selection in nav view
+  * Fixed premature start in gpsdgeoinfosource
+  * Update type icon in compass view
+
+ -- Till Harbaum <till@harbaum.org>  Wed, 24 Aug 2011 18:17:03 +0200
+
+cacheme (0.8.6-1) unstable; urgency=low
+
+  * Local waypoint handling
+  * Changed Cloudmade cache handling
+  * re-implement pixmap handling to cope with offsets
+
+ -- Till Harbaum <till@harbaum.org>  Wed, 10 Aug 2011 17:42:11 +0200
+
+cacheme (0.8.5-1) unstable; urgency=low
+
+  * Local Waypoint Database
+  * Coordinate tool
+  * Google maps integration
+  * Finger scrolling under Symbian
+  * Fixed hint parsing for GPX files
+
+ -- Till Harbaum <till@harbaum.org>  Mon, 1 Aug 2011 19:22:43 +0200
+
+cacheme (0.8.4-1) unstable; urgency=low
+
+  * Re-enabled scrollbar in settings dialog for Maemo5 (only)
+
+ -- Till Harbaum <till@harbaum.org>  Sat, 30 Jul 2011 21:28:51 +0200
+
+cacheme (0.8.3-1) unstable; urgency=low
+
+  * Shrinked config dialog
+  * Added option to increase icon size (for E6)
+  * Fixed "owned waypoints" crash
+
+ -- Till Harbaum <till@harbaum.org>  Sun, 28 Jul 2011 20:32:11 +0200
+
+cacheme (0.8.2-1) unstable; urgency=low
+
+  * Removed unused QAction in main menu
+
+ -- Till Harbaum <till@harbaum.org>  Sun, 17 Jul 2011 23:38:40 +0200
+
+cacheme (0.8.1-1) unstable; urgency=low
+
+  * Bug fixes in coordinate tool
+
+ -- Till Harbaum <till@harbaum.org>  Thu, 30 Jun 2011 21:10:24 +0200
+
+cacheme (0.8-1) unstable; urgency=low
+
+  * First steps in coordinate tool
+  * Add waypoint support to Gpx and GcBrowser
+  * Waypoint display
+  * Sgml parser bug fix
+  * Shifted symbian expiration to aug 1st 2011
+
+ -- Till Harbaum <till@harbaum.org>  Mon, 30 May 2011 22:49:45 +0200
+
+cacheme (0.7.2-1) unstable; urgency=low
+
+  * Shifted symbian expiration to jul 1st 2011
+  * Symbian version using qt 4.7.3
+
+ -- Till Harbaum <till@harbaum.org>  Mon, 30 May 2011 22:49:45 +0200
+
+cacheme (0.7.1-1) unstable; urgency=low
+
+  * Added capability to follow http redirects
+  * GcBrowser adjustments with respect to gc.com site update
+  * Closed GcBrowser memory leak
+
+ -- Till Harbaum <till@harbaum.org>  Thu, 05 May 2011 18:59:48 +0200
+
+cacheme (0.7-1) unstable; urgency=low
+
+  * (re-)implement gpxprovider to handle pocket queries (offline caching)
+  * set owned/found flags when parsing gpx
+  * Add ability to change between cache providers
+  * erase local cache list before update
+  * caching of image data (offline caching)
+  * Handle archived flag
+  * move non-scrolling html view into htmlview class
+  * issue warning on old data
+  * add loc file support
+  * better handling of multiple/simultaneous banners
+  * fixed compass rose mapping
+  * Symbian: keep special key focus on top window
+  * rename GcLive to GcBrowser
+  * move user/password config into main app and use one globally
+  * re-use gpx thread when loading more files
+  * avoid banner mixture under maemo5
+  * Symbian: add translations
+
+ -- Till Harbaum <till@harbaum.org>  Sat, 16 Apr 2011 20:36:38 +0200
+
+cacheme (0.6-1) unstable; urgency=low
+
+  * remove qjson dependency (required for symbian and handy for windows)
+  * connect plugin/app only via signals (required for windows)
+  * build scripts for windows
+  * revert to qt mobility 1.1 (required for symbian)
+  * scale map overlay buttons for small screens (required for symbian)
+  * option to move files into internal resource (handy for symbian)
+  * fullscreen map
+  * clean up immediate error handling for network requests
+  * make compass an ordinary qwidget
+  * use magnetic compass if present (QCompass)
+  * use volume buttons for zoom under symbian
+  * Symbian port
+  * "Back" framework for fullscreen subwindows
+  * Gpsd integration for desktop linux
+  * trigger cache reload only on significant map movement
+  * generic icon+label widget
+  * platform specific base sizes
+  * Display log details
+  * Display attribute details
+  * persistent cookies (keep login active)
+  * move "open in browser" button to description page
+  * decode html character entities in plaintext
+  * restrict screen updates to modified area (spinner and banner)
+
+ -- Till Harbaum <till@harbaum.org>  Sat, 19 Mar 2011 20:11:57 +0100
+
+cacheme (0.5-3) unstable; urgency=low
+
+  * Force drawing of compass with first position
+
+ -- Till Harbaum <till@harbaum.org>  Sat, 19 Mar 2011 10:30:52 +0100
+
+cacheme (0.5-2) unstable; urgency=low
+
+  * Fixed compass image path
+
+ -- Till Harbaum <till@harbaum.org>  Tue, 15 Mar 2011 19:21:56 +0100
+
+cacheme (0.5-1) unstable; urgency=low
+
+  * compass navigation
+  * seperate swapbox widget
+  * smoothen compass movement
+  * move plugin and map configuration into main settings dialog
+  * always show at least compass background
+  * reduce compass cpu load by prerendering background
+  * intuitive "going to this cache" indicator in compass
+
+ -- Till Harbaum <till@harbaum.org>  Wed, 02 Mar 2011 18:22:12 +0100
+
+cacheme (0.4-3) unstable; urgency=low
+
+  * Fixed plugin installation
+
+ -- Till Harbaum <till@harbaum.org>  Wed, 02 Mar 2011 09:34:34 +0100
+
+cacheme (0.4-2) unstable; urgency=low
+
+  * included /usr/lib into debian package
+
+ -- Till Harbaum <till@harbaum.org>  Wed,  2 Mar 2011 09:07:55 +0100
+
+cacheme (0.4-1) unstable; urgency=low
+
+  * ability to login into gc.com
+  * move cache providers into external plugins
+  * let plugins create their own menu entries
+  * replace/overwrite duplicate requests in request queue
+  * fix overlay/objects layer order
+  * extend gclive plugin to download cache details
+  * html renderer
+  * cache window, description window
+  * connect zoom buttons under maemo5
+  * cleanup cache class
+  * make htmlview work on Descriptions
+  * prevent creation of multiple cachewindows under maemo5
+  * busy/network progress indicator
+  * hide button stretch in cachewindow portrait mode with html view
+  * move hint into seperate window (mainly for maemo5 gui)
+  * update geoservices
+
+ -- Till Harbaum <till@harbaum.org>  Wed, 09 Feb 2011 19:03:31 +0100
+
+cacheme (0.3-1) unstable; urgency=low
+
+  * ability to open cache url in browser (makes this version already useful)
+  * ability to place right/bottom aligned map overlay buttons
+  * test/enable windows compile
+  * status bar for non-maemo5
+  * include cloudmade/osm plugins
+  * move sources into seperate subdir
+  * gracefully handle missing icons
+  * map type dialog (street/night/terrain, nokia/osm/cloudmade)
+
+ -- Till Harbaum <till@harbaum.org>  Mon, 31 Jan 2011 18:35:30 +0100
+
+cacheme (0.2-1) unstable; urgency=low
+
+  * gps precision indicator
+  * Adjust object layering (map->caches->precision->gps->bubble)
+  * put all cache icons into a qgeomapgroupobject
+  * bug tracker link
+  * adjust request frequencies cache/gps
+  * basic menu
+  * basic about box
+  * correctly wrap multiline with icon (e.g. container)
+  * allow for translations
+  * translate/clip painter in mapbubble
+  * adjust asymmetric 2 column width
+  * use of two columns only in landscape
+  * align rating stars
+
+ -- Till Harbaum <till@harbaum.org>  Thu, 27 Jan 2011 21:14:38 +0100
+
+cacheme (0.1-1) unstable; urgency=low
+
+  * Initial test release
+
+ -- Till Harbaum <till@harbaum.org>  Fri, 21 Jan 2011 19:51:09 +0100
+

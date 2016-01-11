@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<defs>
+<linearGradient id="linearGradient3041" y2="18.235" gradientUnits="userSpaceOnUse" x2="19.35" gradientTransform="translate(0,0.1295547)" y1="18.235" x1="10.059">
+<stop stop-color="#b40000" offset="0"/>
+<stop stop-color="#ff0404" offset="0.5"/>
+<stop stop-color="#b40000" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient3044" y2="22.504" gradientUnits="userSpaceOnUse" x2="24.779" gradientTransform="translate(0,0.1295547)" y1="16.415" x1="5.3685">
+<stop stop-color="#FFF" offset="0"/>
+<stop stop-color="#FFF" offset="0.55072"/>
+<stop stop-color="#BBB" offset="1"/>
+</linearGradient>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path stroke-linejoin="round" d="M9.3664,20.832c-2.5947-1.844-5.4246-2.814-6.8664-8.939l5.5708,3.6923,1.2955,5.247z" stroke="#FFF" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="none"/>
+<path stroke-linejoin="round" d="m26.597,10.921c-0.99571,6.4815-3.0508,8.3724-5.0526,10.494v-5.8947c1.5701-2.4463,3.3146-3.4963,5.0526-4.5992z" stroke="#FFF" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="none"/>
+<path stroke-linejoin="round" d="m6.0385,28.168c1.7205-1.8264,2.3408-2.8627,3-4,0.46098-1.2057,0.59764-3.3187,0-5-0.87044-1.834-1.4445-3.3517-2-5-0.52482-3.0842,0.16308-5.1073,1-7,1.3333-2.2616,2.6667-2.5833,4-3,2.4534-0.56681,4.2195-0.27441,6,0,1.6042,0.47006,3.3422,1.3244,4,3,0.59963,1.1341,0.9185,2.8297,1,5-0.13193,1.1319-0.52481,2.5248-1,4-0.45692,1.4476-0.21469,2.7203,0,4,0.49492,1,1.3025,2,3,3l2,1c-1.4622,2.5599-3.195,3.4964-5,4-2.406,0.58137-4.7659,0.79355-7,0-1.1837-0.35646-1.672-1.1302-2-2-0.74458,1.1558-1.0392,1.3185-2,2-1.3887,1-6,2-5,0z" stroke="#FFF" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="none"/>
+<path stroke-linejoin="round" d="M12.891,11.271z" transform="matrix(0.569115,0,0,0.5859172,-3.8891302,-0.9549832)" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#000"/>
+<path stroke-linejoin="round" d="M12.891,11.271z" transform="matrix(0.6928773,0,0,0.6727606,17.604598,-15.604646)" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#000"/>
+<path stroke-linejoin="round" d="M12.891,11.271z" transform="matrix(0.6928773,0,0,0.6727606,23.240225,-15.863756)" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#000"/>
+<path stroke-linejoin="round" d="M12.891,11.271z" transform="matrix(0.6928773,0,0,0.6727606,-0.2091677,-33.418412)" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#000"/>
+<path stroke-linejoin="round" d="M12.891,11.271z" transform="matrix(0.6928773,0,0,0.6727606,-5.9095726,-34.649181)" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#000"/>
+<path stroke-linejoin="round" d="M12.891,11.271z" transform="matrix(0.6928773,0,0,0.6727606,-5.3913539,-34.584404)" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#000"/>
+<path stroke-linejoin="round" d="M9.3279,20.794c-2.5947-1.844-5.4245-2.814-6.8664-8.94l5.5709,3.6923,1.2955,5.247z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#f5f5f5"/>
+<path stroke-linejoin="round" d="m26.559,10.883c-0.99571,6.4815-3.0508,8.3724-5.0526,10.494v-5.8947c1.5701-2.4463,3.3146-3.4963,5.0526-4.5992z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#FFF"/>
+<path stroke-linejoin="round" d="m6,28.13c1.7205-1.8264,2.3408-2.8627,3-4,0.46098-1.2057,0.59764-3.3187,0-5-0.87045-1.834-1.4445-3.3517-2-5-0.52482-3.0842,0.16308-5.1073,1-7,1.3333-2.2616,2.6667-2.5833,4-3,2.4534-0.56681,4.2195-0.27441,6,0,1.6042,0.47006,3.3422,1.3244,4,3,0.59963,1.1341,0.9185,2.8297,1,5-0.13193,1.1319-0.52481,2.5248-1,4-0.45692,1.4476-0.21469,2.7203,0,4,0.49492,1,1.3025,2,3,3l2,1c-1.4622,2.5599-3.195,3.4964-5,4-2.406,0.58137-4.7659,0.79355-7,0-1.1837-0.35646-1.672-1.1302-2-2-0.74458,1.1558-1.0392,1.3185-2,2-1.3887,1-6,2-5,0z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="url(#linearGradient3044)"/>
+<path stroke-linejoin="round" d="m10.559,15.611c1.3138,0.83962,2.4457,1.3802,3.8219,1.2955,1.5119-0.0014,3.1762-0.71894,4.4696-1.4251-0.8823,1.4884-1.2903,2.7396-2.7854,4.5344-0.44526,0.54799-0.96109,1.0254-1.749,1.2308-0.60828-0.29178-1.3149-0.87868-2.2672-2.2024-0.72706-0.91396-1.0978-2.1842-1.4899-3.4332z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="url(#linearGradient3041)"/>
+<path stroke-linejoin="round" d="m16.072,9.5291c0.58482,0.046195,1.0271-0.41163,1.4529-0.92782" stroke="#000" stroke-linecap="round" stroke-width="1.01474714px" fill="none"/>
+<path d="m1.9433,5.4413a0.097166,0.97166,0,1,1,-0.19433,0,0.097166,0.97166,0,1,1,0.19433,0z" transform="matrix(1.3639545,0,0,1.2509286,12.601599,3.6358447)" fill="#f5f5f5"/>
+<path d="m4.2105,7.8381a1.5547,2.5263,0,1,1,-3.1093,0,1.5547,2.5263,0,1,1,3.1093,0z" transform="matrix(0.79564008,0,0,1.0264029,14.022615,3.6129896)" fill="#000"/>
+<path stroke-linejoin="round" d="M12.96,9.6279c-0.584,0.0462-1.027-0.4116-1.453-0.9278" stroke="#000" stroke-linecap="round" stroke-width="1.01474714px" fill="none"/>
+<path d="m1.9433,5.4413a0.097166,0.97166,0,1,1,-0.19433,0,0.097166,0.97166,0,1,1,0.19433,0z" transform="matrix(-1.3639545,0,0,1.2509286,16.43071,3.7346399)" fill="#f5f5f5"/>
+<path d="m4.2105,7.8381a1.5547,2.5263,0,1,1,-3.1093,0,1.5547,2.5263,0,1,1,3.1093,0z" transform="matrix(-0.79564008,0,0,1.0264029,15.009694,3.7117848)" fill="#000"/>
+</svg>

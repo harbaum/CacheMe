@@ -1,0 +1,456 @@
+"The API-Key inside this geoservices plugin is only provided for testing
+and demo of CloudMade's services.
+
+For all other use, including development and release of commercial and
+non-commercial applications, you should register your own free API-Key at
+http://developer.cloudmade.com and agree to the following Terms of
+Service:"
+
+CloudMade API Terms of Service
+
+Last Updated: February 4, 2009
+
+1. Introduction
+
+Welcome to the CloudMade.com (hereafter referred to as “CloudMade”)
+file download platform.
+
+BY CLICKING “I AGREE” OR DOWNLOADING, IMPLEMENTING, OR OTHERWISE USING
+THE CLOUDMADE APIS (AS DEFINED BELOW), YOU ACKNOWLEDGE THAT YOU HAVE
+READ, UNDERSTAND AND AGREE TO BE BOUND BY THESE CLOUDMADE TERMS OF
+SERVICE (THE “TERMS”), INCLUDING ANY FUTURE MODIFICATIONS THERETO. FOR
+CLOUDMADE’S POLICY ON MODIFICATION OF THESE TERMS, PLEASE SEE OUR
+TERMS OF USE. IF, AT ANY TIME, YOU DO NOT AGREE TO THESE TERMS, THEN
+YOU ARE NO LONGER GRANTED A RIGHT TO USE THE CLOUDMADE APIS AS
+PROVIDED HEREIN, AND MUST DISCONTINUE ALL USES OF THE CLOUDMADE APIS
+IMMEDIATELY.  
+
+2. Additional Terms
+
+These Terms are incorporated into and are subject to the CloudMade
+Terms of Use. Your use of the CloudMade APIs is subject at all times
+to these Terms and the Terms of Use. For information regarding how
+CloudMade may collect, uses and disclose your personal information,
+please see the CloudMade Privacy Policy.  
+
+3. Eligibility
+
+You hereby represent and warrant that you have all authority necessary
+to bind yourself to these Terms. IF YOU ARE USING THE CLOUDMADE APIS
+ON BEHALF OF A COMPANY, ENTITY, OR ORGANIZATION (COLLECTIVELY, A
+"SUBSCRIBING ORGANIZATION") THEN YOU REPRESENT AND WARRANT THAT YOU:
+(I) ARE AN AUTHORIZED REPRESENTATIVE OF THAT SUBSCRIBING ORGANIZATION
+WITH THE AUTHORITY TO BIND SUCH ORGANIZATION TO THESE TERMS; (II) HAVE
+READ THE FOREGOING TERMS; (III) UNDERSTAND THESE TERMS, AND (IV) AGREE
+TO THESE TERMS ON BEHALF OF SUCH SUBSCRIBING ORGANIZATION.
+
+4. Conditions of Use
+
+    * a. Definitions
+
+    The CloudMade application programming interfaces (the "CloudMade
+    APIs") allow you to create certain compatibility between an
+    application, service, or product created by you ("Your
+    Application") and the CloudMade Web Tiles ("CloudMade Tiles"). The
+    CloudMade Tiles are based on map data obtained from the
+    OpenStreetMap.org database ("OSM Map Data").  
+
+    * b. CreativeCommons License
+
+    All OSM Map Data and the CloudMade Tiles are licensed for use
+    under and subject to the terms of the Creative Commons Attribution
+    2.0 License ("Cc-by-SA 2.0 License"). BEFORE USING THE CLOUDMADE
+    TILES IN CONJUNCTION WITH YOUR APPLICATION, YOU SHOULD CAREFULLY
+    READ AND UNDERSTAND THE CC-BY-SA 2.0 LICENSE.  
+
+    * c. License Grant
+
+    Subject to the terms and conditions of these Terms and during
+    the term of these Terms, you are hereby granted a limited,
+    nonexclusive, freely revocable license to use the CloudMade APIs
+    for the purpose of creating compatibility between the CloudMade
+    Tiles and Your Application. All rights not expressly granted to
+    you herein are reserved by CloudMade.  
+
+    * d. Attribution Requirements
+
+    If Your Application uses the CloudMade APIs in any manner pursuant
+    to the licenses granted above, then Your Application must:
+
+          o i. Include appropriate attribution to the contributors of
+          the OpenStreeMap project;
+
+          o ii. Include appropriate attribution to CloudMade by
+          including a copyright acknowledgment and a hyperlink to
+          CloudMade.com;
+
+          o iii. Insert a notice prominently into Your Application
+          that allows end users to understand that Your Application is
+          not endorsed by CloudMade as further described in Section 8
+          (Attribution) below;
+
+          o iv. Failure to comply with these attribution requirements
+          will result in the immediate and automatic termination of
+          the rights granted pursuant to this Section 4.
+
+    * e. User Account
+
+    If you desire to use or have access to the CloudMade APIs or
+    CloudMade Tiles, you must first create a CloudMade account by
+    registering at www.cloudmade.com and providing CloudMade with
+    certain information about you and/or your organization, including
+    without limitation your email address and, if applicable, the URL
+    of the websites on which you wish to use the CloudMade APIs. If
+    you wish to use the CloudMade APIs on or within a website, you may
+    not do so without a valid key, provided by CloudMade as part of
+    the registration process, that is specifically designated for such
+    website. All information gathered as part of such registration
+    process will be in accordance with the CloudMade Privacy Policy.
+
+    * f. Sublicense to End Users
+
+    If you grant end users of Your Application access to any CloudMade
+    APIs as part of Your Application, such access is subject to and
+    must comply with these Terms, and you agree to ensure that each
+    end user agrees to these Terms with respect to the CloudMade APIs.
+
+5. Representations and Warranties
+
+You hereby represent and warrant that:
+
+    * a. You will at all times comply with these Terms as well as the
+      Cc-by-SA 2.0 License, CloudMade Terms of Use, CloudMade Privacy
+      Policy, and all other terms governing your use of the CloudMade
+      APIs;
+
+    * b. Your Application and your use of the CloudMade APIs will not:
+
+          o i. infringe, violate or misappropriate any third party's
+          intellectual property rights or other proprietary rights or
+          be misleading, deceptive or fraudulent
+
+          o ii. violate any laws, treaties, regulations or other
+          governmental order * c. Your Application shall not be designed or
+          implemented in a way that, as determined by CloudMade in its sole
+          discretion, might mislead a user into believing that:
+
+          o i he or she is interacting directly with CloudMade when
+          interacting with Your Applications,
+
+          o ii any of Your Applications were created by or are
+          endorsed by CloudMade.
+
+6. Further Restrictions
+
+By way of example and not by limitation, you agree that you WILL NOT:
+
+    * a.infringe, violate or misappropriate any third party's
+      intellectual property rights or other proprietary rights either
+      through your own conduct or through the conduct of your end
+      users
+
+          o i. of which you are aware or reasonably should be aware;
+          o ii. do not take reasonable steps to prevent;
+
+    * b. engage in any activity that is malicious or harmful to any
+      person or entity, including in an activity that may be libelous
+      or defamatory, or discriminatory based on race, color, sex,
+      religion, nationality, ethnic or national origin, marital
+      status, disability, sexual orientation or age;
+
+    * c. engage in spamming or other advertising or marketing
+      activities that violate any applicable laws, regulations or
+      generally-accepted advertising industry guidelines;
+
+    * d. interfere or attempt to interfere in any manner with the
+      functionality or proper working of the CloudMade APIs, or, in
+      each case, any portion or feature thereof;
+
+    * e. impose or purport to impose any obligation on any person, or
+      grant or purport to grant any right, power or authority to
+      yourself or any other person, that would be inconsistent with
+      these Terms, and you agree that any such obligation, right,
+      power or authority purportedly imposed or granted shall be null
+      and void;
+
+    * f. remove, obscure, or alter any notice of patent, copyright,
+      trademark or other proprietary right appearing in the CloudMade
+      APIs;
+
+    * g. use the CloudMade APIs for the purpose of developing a
+      product that will be owned by a third party that would compete
+      with CloudMade’s products or services;
+
+    * h. copy, distribute, reproduce, sell, resell, lease, rent, use
+      or allow access to the CloudMade APIs except as explicitly
+      permitted under these Terms;
+
+    * i. modify, translate, adapt, or prepare derivative works from
+      the CloudMade APIs except as explicitly permitted under these
+      Terms or under applicable law;
+
+    * j. reverse engineer or attempt to reverse engineer the CloudMade
+      APIs except as explicitly permitted under these Terms or under
+      applicable law;
+
+    * k. attempt to conceal your identity or Your Application's
+      identity when requesting authorization to use CloudMade APIs;
+
+    * l. use CloudMade APIs in a manner that exceeds request volumes
+      that are set by CloudMade in its sole discretion and published
+      to CloudMade’s website at http://www.cloudmade.com;
+
+    * m. use CloudMade APIs in connection with or to promote any
+      products, services, or materials that constitute, promote or are
+      used primarily for the purpose of dealing in: spyware, adware,
+      or other malicious programs or code, counterfeit goods, hate
+      materials (e.g. Nazi memorabilia), goods made from protected
+      animal/plant species, recalled goods,
+      hacking/surveillance/interception/descrambling equipment,
+      cigarettes, illegal drugs and paraphernalia, pornography,
+      prostitution, body parts and bodily fluids, stolen products and
+      items used for theft, fireworks, explosives, and hazardous
+      materials, government IDs, police items, unlicensed trade or
+      dealing in stocks and securities, gambling items, professional
+      services regulated by state licensing regimes, non-transferable
+      items such as airline tickets or event tickets, non-packaged
+      food items, weapons and accessories;
+
+    * n. use CloudMade APIs to operate any mission critical
+      application or facility where human life or property may be put
+      at risk. You understand that the CloudMade APIs are not designed
+      for such purposes and that their failure in such cases could
+      lead to death, personal injury, or severe property or
+      environmental damage for which CloudMade is not responsible.
+
+7. Ownership
+
+CloudMade and/or its licensors own all right, title and interest in
+and to the CloudMade APIs. The CloudMade APIs are protected by
+copyright laws, international treaty provisions, and other
+intellectual property laws. All rights not expressly granted hereunder
+are reserved by CloudMade. Except for the limited license expressly
+granted herein, these Terms grant you no other right, title, or
+interest in or to any intellectual property owned by CloudMade,
+including (but not limited to) the CloudMade APIs and CloudMade
+trademarks. As between you and CloudMade, you own Your Applications
+(subject to CloudMade’s underlying rights in the CloudMade APIs).
+
+8. Attribution
+
+You shall place the following notice prominently on Your Application:
+"This product uses the CloudMade APIs, but is not endorsed or
+certified by CloudMade." Apart from providing attribution as expressly
+described in Section 4(d) and this Section 8, you shall not use the
+name “CloudMade” in any way, including, but not limited to, in the
+hostname of Your Application (i.e. CloudMade.domain.com). You shall
+not use the CloudMade logo or CloudMade marks without prior express
+written permission from CloudMade, and then, only under the terms and
+conditions under which CloudMade provided such prior express written
+permission.
+
+9. Termination
+
+Your license to the CloudMade APIs under these Terms continues until
+terminated by yourself or CloudMade. You may terminate the license
+and/or these Terms by discontinuing your use of the CloudMade
+APIs. CloudMade may terminate the license to the CloudMade APIs and/or
+these Terms without liability at any time for any reason, with or
+without notice. Additionally, your rights to use the CloudMade APIs
+will terminate immediately if you violate any of these Terms. Upon
+expiration or termination of the license granted herein and/or these
+Terms, you will discontinue any and all use of the CloudMade APIs.
+
+10. Support
+
+CloudMade may elect to provide you with support or modifications for
+the CloudMade APIs (collectively, "Support"), in its sole discretion,
+and may terminate such Support at any time without notice to
+you. CloudMade may change, suspend, or discontinue any aspect of the
+CloudMade APIs at any time, including the availability of any
+CloudMade APIs. CloudMade may also impose limits on certain features
+and services or restrict your access to parts or all of the CloudMade
+APIs without notice or liability.
+
+11. Fees, Taxes
+
+CloudMade reserves the right to charge a fee for using the CloudMade
+APIs without notice in its sole discretion. You do not have an
+obligation to continue using the CloudMade APIs should CloudMade
+exercise its right to charge a fee. You are responsible for paying any
+governmental taxes imposed on your use of the CloudMade APIs,
+including, but not limited to, sales, use or value-added taxes. To the
+extent CloudMade is obligated to collect such taxes, the applicable
+tax will added to any fees CloudMade may charge.
+
+12. Release and waiver
+
+You hereby release, waive and covenant not to sue or pursue any claim
+against CloudMade (and CloudMade's officers, directors, agents,
+subsidiaries, joint ventures and employees) from all claims, demands
+and damages (actual and consequential) of every kind and nature, known
+and unknown, arising out of or in any way connected to:
+
+    * i. Your Application or any intellectual property you develop that 
+         is based on, uses, or relates to the CloudMade APIs;
+    * ii. which otherwise may arise in connection with your use of, 
+         reliance on, or reference to the CloudMade APIs.
+
+If you are a California resident, you waive California Civil Code
+§1542, which says: "A general release does not extend to claims which
+the creditor does not know or suspect to exist in his favor at the
+time of executing the release, which if known by him must have
+materially affected his settlement with the debtor." You understand
+that any fact relating to any matter covered by this release may be
+found to be other than now believed to be true and you accept and
+assume the risk of such possible differences in fact. In addition, you
+expressly waive and relinquish any and all rights and benefits which
+you may have under any other state or federal statute or common law
+principle of similar effect, to the fullest extent permitted by law.
+
+13. Indemnification
+
+In addition to the indemnification provisions in the CloudMade Terms
+of Use, you hereby agree to indemnify, defend, and hold harmless
+CloudMade, its customers and users, all third-party advertisers,
+technology providers and service providers, and each of their
+respective employees, directors and representatives, from any
+liability, loss or claim arising out of or relating to:
+
+    * i. These Terms,
+    * ii. Your use of or interaction with the CloudMade APIs,
+    * iii. Your Application,
+    * iv. Your violation of any law, treaty, regulation or other governmental order,
+    * v. Your violation of the proprietary or other rights of third parties.
+
+CloudMade reserves the right, at Your expense, to assume the exclusive
+defense and control of any matter for which You are required to
+indemnify CloudMade, and You agree to cooperate with CloudMade's
+defense of these claims. CloudMade will use reasonable efforts to
+notify You of any such claim, action, or proceeding upon becoming
+aware of it.
+
+14. Disclaimer, Limitation of Liability
+
+The following terms are in addition to the disclaimer and limitation
+of liability in the Terms of Use.
+
+CloudMade does not warrant that the data or any other information
+offered in or through the CloudMade APIs will be uninterrupted, or
+free of errors, viruses or other harmful components and does not
+warrant that any of the foregoing shall be corrected. CloudMade is not
+responsible for the conduct of any user of the CloudMade APIs.
+
+THE CLOUDMADE APIS ARE PROVIDED ON AN "AS IS" BASIS AND WITHOUT
+WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR
+IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW,
+CLOUDMADE, AND ITS AFFILIATES, PARTNERS, AND SUPPLIERS DISCLAIM ALL
+WARRANTIES, STATUTORY, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED
+TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, TITLE, AND NON-INFRINGEMENT OF PROPRIETARY RIGHTS. NO ADVICE
+OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM
+CLOUDMADE WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED HEREIN.
+
+UNDER NO CIRCUMSTANCES WILL CLOUDMADE BE LIABLE TO YOU FOR ANY
+PUNITIVE, INCIDENTAL, INDIRECT, SPECIAL, RELIANCE OR CONSEQUENTIAL
+DAMAGES, INCLUDING LOST BUSINESS, REVENUE, OR ANTICIPATED PROFITS,
+WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR
+OTHERWISE, AND WHETHER OR NOT CLOUDMADE WAS ADVISED OF THE POSSIBILITY
+OF SUCH DAMAGES. IN NO EVENT WILL CLOUDMADE’S LIABILITY EXCEED THE
+GREATER OF THE FEES PAYABLE BY YOU TO CLOUDMADE UNDER THESE TERMS
+DURING THE TWELVE MONTHS IMMEDIATELY PRECEDING THE DAY THE ACT OR
+OMISSION OCCURRED THAT GAVE RISE TO THE CLAIM OR $100 USD.
+
+CERTAIN JURISDICTIONS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES
+OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF YOU RESIDE IS
+SUCH A JURISDICTION, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS,
+OR LIMITATIONS MAY NOT APPLY TO YOU AND YOU MAY HAVE ADDITIONAL
+RIGHTS. THE LIMITATIONS OR EXCLUSIONS OF WARRANTIES, REMEDIES OR
+LIABILITY CONTAINED IN THESE TERMS APPLY TO YOU TO THE FULLEST EXTENT
+SUCH LIMITATIONS OR EXCLUSIONS ARE PERMITTED UNDER THE LAWS OF THE
+JURISDICTION WHERE YOU ARE LOCATED
+
+YOU EXPRESSLY ACKNOWLEGE THAT AS USED IN THIS SECTION 14, THE TERM
+CLOUDMADE INCLUDES CLOUDMADE'S OFFICERS, DIRECTORS, EMPLOYEES,
+SHAREHOLDERS, AGENTS, LICENSORS AND SUBCONTRACTORS.  
+
+15. Notice
+
+CloudMade may provide you with notices, including those regarding
+changes to these Terms, by email, regular mail or postings on the
+CloudMade website. Notice will be deemed given twenty-four hours after
+email is sent, unless CloudMade is notified that the email address is
+invalid. Alternatively, we may give you legal notice by mail to a
+postal address, if provided by you. In such case, notice will be
+deemed given three days after the date of mailing. Notice posted on
+the CloudMade website is deemed given thirty days following the
+initial posting.  
+
+16. Waiver
+
+The failure of CloudMade to exercise or enforce any right or provision
+of these Terms will not constitute a waiver of such right or
+provision. Any waiver of any provision of these Terms will be
+effective only if in writing and signed by CloudMade.
+
+17. Governing law, Jurisdiction
+
+These Terms shall be governed by and construed in accordance with the
+laws of the State of California, without giving effect to any
+principles of conflicts of law. You agree that any action at law or in
+equity arising out of or relating to these Terms or the CloudMade APIs
+shall be filed only in the state or federal courts in and for Santa
+Clara County, California, and you hereby consent and submit to the
+personal and exclusive jurisdiction and venue of such courts for the
+purposes of litigating any such action.  
+
+18. Severability
+
+If any provision of these Terms is held to be unlawful, void, or for
+any reason unenforceable, then that provision will be limited or
+eliminated from these Terms to the minimum extent necessary and will
+not affect the validity and enforceability of any remaining
+provisions.
+
+19. Assignment
+
+These Terms may not be transferred or assigned by you, whether by way
+of merger, sale, or otherwise, but may be assigned by CloudMade
+without restriction. Any assignment attempted to be made in violation
+of these Terms shall be null and void.
+
+20. Survival
+
+Upon termination of these Terms, any provision which, by its nature or
+express terms should survive, will survive such termination or
+expiration, including, but not limited to, Sections 2, 5, 6, 7, 9, and
+12-24 .
+
+21. Headings
+
+The heading references herein are for convenience purposes only, do
+not constitute a part of these Terms, and will not be deemed to limit
+or affect any of the provisions hereof.
+
+22. Entire Agreement, Construction
+
+These Terms are the entire agreement between you and CloudMade
+relating to the subject matter herein and will not be modified except
+in writing, signed by both parties, or by a change to these Terms made
+by CloudMade as set forth in the CloudMade Terms of Use. Any
+construction or interpretation to be made of these Terms shall not be
+construed against the drafter.  
+
+23. No Agency
+
+The Parties are independent contractors with respect to each
+other. The Terms do not constitute and may not be construed as
+constituting a partnership or joint venture among the Parties hereto,
+or an employee-employer relationship.
+
+24. Contact Information
+
+If you would like to contact us regarding the CloudMade APIs or these
+Terms, please email us at: info@cloudmade.com. Alternatively, you may
+send us communications in writing at: CloudMade, 1370 Willow Road, 2nd
+Floor, Menlo Park, CA 94025 USA.
